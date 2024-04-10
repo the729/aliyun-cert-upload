@@ -1,6 +1,6 @@
 module github.com/the729/aliyun-cert-upload
 
-go 1.21.5
+go 1.21
 
 require github.com/aliyun/alibaba-cloud-sdk-go v1.62.712
 
